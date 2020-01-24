@@ -4,18 +4,19 @@ def third_challenge
       patriarch: {
         #your key/value pairs here
         name: "Lord Montague"
-        age: ""
+        age: "53"
         },
       matriarch: {
         #your key/value pairs here
         name: "Lady Montague"
-        age: ""
+        age: "54"
         
         },
       hero: {
         #your key/value pairs here
-        name: ""
-        age: ""
+        name: "Romeo"
+        age: "15"
+        status: "alive"
         },
       hero_friends: []
    },
